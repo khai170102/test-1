@@ -1,7 +1,7 @@
 import LogoMobile from "./images/LogoMobile";
 import Linkedin from "./images/Linkedin.png";
 import Twitter from "./images/Twitter.png";
-import Youtube from "./images/Youtube.png";
+import Youtube from "./images/YouTube.png";
 
 const footerLinks = {
   "WEB MAP": ["Home", "Games", "News", "Math", "Company", "Events", "Partners"],
